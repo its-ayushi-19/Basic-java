@@ -1,0 +1,238 @@
+ {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "edgeclass",
+            "request": "launch",
+            "mainClass": "datastructures.edgeclass",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Problem2hash",
+            "request": "launch",
+            "mainClass": "datastructures.Problem2hash",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Problem1hash",
+            "request": "launch",
+            "mainClass": "datastructures.Problem1hash",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "classroomHash",
+            "request": "launch",
+            "mainClass": "datastructures.classroomHash",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "HashMapcode",
+            "request": "launch",
+            "mainClass": "datastructures.HashMapcode",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "hashmap",
+            "request": "launch",
+            "mainClass": "datastructures.hashmap",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Hashing",
+            "request": "launch",
+            "mainClass": "datastructures.Hashing",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "datastructures.BST",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "diameter",
+            "request": "launch",
+            "mainClass": "datastructures.diameter",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "heighttree",
+            "request": "launch",
+            "mainClass": "datastructures.heighttree",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "sumofnode",
+            "request": "launch",
+            "mainClass": "datastructures.sumofnode",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "countnode",
+            "request": "launch",
+            "mainClass": "datastructures.countnode",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "countnodes",
+            "request": "launch",
+            "mainClass": "datastructures.countnodes",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "levelorder",
+            "request": "launch",
+            "mainClass": "datastructures.levelorder",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "PosrOrder",
+            "request": "launch",
+            "mainClass": "datastructures.PosrOrder",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Inorder",
+            "request": "launch",
+            "mainClass": "datastructures.Inorder",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "PreOrder",
+            "request": "launch",
+            "mainClass": "datastructures.PreOrder",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Binarytree",
+            "request": "launch",
+            "mainClass": "datastructures.Binarytree",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "queue1",
+            "request": "launch",
+            "mainClass": "datastructures.queue1",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "CircularQ",
+            "request": "launch",
+            "mainClass": "datastructures.CircularQ",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "circularq",
+            "request": "launch",
+            "mainClass": "datastructures.circularq",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "queuey",
+            "request": "launch",
+            "mainClass": "datastructures.queuey",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "stack3",
+            "request": "launch",
+            "mainClass": "datastructures.stack3",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "stack2",
+            "request": "launch",
+            "mainClass": "datastructures.stack2",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "datastructures.stack",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "arrylist",
+            "request": "launch",
+            "mainClass": "datastructures.arrylist",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "quicksort",
+            "request": "launch",
+            "mainClass": "datastructures.quicksort",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "datastructures.mergesort",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Backtracting",
+            "request": "launch",
+            "mainClass": "datastructures.Backtracting",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "datastructures.recursion1",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "datastructures.recursion",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "paths",
+            "request": "launch",
+            "mainClass": "datastructures.paths",
+            "projectName": "java basic_3706b0d2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
